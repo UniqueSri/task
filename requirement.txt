@@ -1,0 +1,5 @@
+Django==4.2.5               # Django framework (latest stable version)
+mysqlclient==2.2.0          # MySQL connector (if using MySQL as the database)
+psycopg2==2.9.6             # PostgreSQL connector (if you're using PostgreSQL as the database)
+djangorestframework==3.14.0 # for enhanced API development (could be helpful if you're expanding your API functionality)
+
